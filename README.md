@@ -1,4 +1,4 @@
-```markdown
+
 <!-- ===================== HEADER ===================== -->
 
 <div align="center">
@@ -287,4 +287,4 @@ I value scientific integrity, evidence-based interpretation, continuous learning
 <sub><i>Curiosity drives research. Evidence guides discovery.</i></sub>
 
 </div>
-```
+
