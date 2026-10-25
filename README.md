@@ -1,308 +1,290 @@
 ```markdown
-<!-- ====================================================== -->
-<!-- ACADEMIC RESEARCH PORTFOLIO | MATERIALS SCIENCE        -->
-<!-- Replace placeholders with your actual information.    -->
-<!-- ====================================================== -->
+<!-- ===================== HEADER ===================== -->
 
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=200&section=header&text=YOUR%20NAME&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Materials%20Science%20%7C%20Research%20%7C%20Innovation&descAlignY=57&descSize=15"
-    width="100%"
-    alt="Academic Research Portfolio Banner"
-  />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:172554,100:0F766E&height=170&section=header&text=MATERIALS%20SCIENCE&fontSize=38&fontColor=F8FAFC&fontAlignY=38&desc=RESEARCH%20%7C%20NANOMATERIALS%20%7C%20INNOVATION&descSize=13&descAlignY=63" width="100%" alt="Materials Science Research Portfolio"/>
+
+<br>
+
+# NGUYEN THI NGOC GIAU
+
+### Materials Science Undergraduate · Research Portfolio
+
+*Exploring materials, sustainable technologies, and AI-assisted scientific computing.*
+
+<br>
+
+<a href="https://github.com/giaun3456-png">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:giaun3456@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-0F766E?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<br>
+
+<img src="https://img.shields.io/badge/Materials%20Science-Student-2563EB?style=flat-square" alt="Materials Science"/>
+<img src="https://img.shields.io/badge/English-B1-0F766E?style=flat-square" alt="English B1"/>
+<img src="https://img.shields.io/badge/IELTS-Preparing-F59E0B?style=flat-square" alt="IELTS preparation"/>
+
 </div>
 
-<h1 align="center">Hi, I'm Nguyen Thi Ngoc Giau 👋</h1>
+---
 
-<h3 align="center">
-  Materials Science Undergraduate | Aspiring Researcher
-</h3>
+## 01 / ABOUT
 
-<p align="center">
-  Exploring nanomaterials, sustainable materials, and AI-assisted scientific workflows.
-</p>
+I am a third-year Materials Science undergraduate at the **University of Science, Vietnam National University Ho Chi Minh City (VNU-HCM)**.
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+My academic projects focus on **ZnO-based materials** and **nanocellulose derived from cassava peels**, with potential applications in photocatalysis, porous materials, sustainable food packaging, and composites.
+
+Alongside my materials science background, I use Python and AI-assisted coding tools to explore programming-based problem-solving and scientific workflows.
+
+I am seeking opportunities to develop my research capabilities through **research internships, academic collaboration, and scholarship programs**.
+
+<table>
+<tr>
+<td width="33%" align="center">
+<br>
+<strong>🎓 EDUCATION</strong>
+<br><br>
+Materials Science
+<br>
+University of Science
+<br>
+VNU-HCM
+<br><br>
+</td>
+<td width="33%" align="center">
+<br>
+<strong>🔬 RESEARCH</strong>
+<br><br>
+ZnO/C Materials
+<br>
+Nanocellulose
+<br>
+Sustainable Materials
+<br><br>
+</td>
+<td width="33%" align="center">
+<br>
+<strong>🎯 GOAL</strong>
+<br><br>
+Research Internship
+<br>
+Scholarship Opportunities
+<br>
+Academic Development
+<br><br>
+</td>
+</tr>
+</table>
 
 ---
 
-## 👨‍🔬 About Me
+## 02 / RESEARCH PROJECTS
 
-I am a third-year undergraduate student at the **University of Science, Vietnam National University Ho Chi Minh City (VNU-HCM)**, pursuing studies in Materials Science.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-My academic project experience includes synthesizing zinc oxide (ZnO) using cashew apple juice extract for potential photocatalytic applications and exploring porous materials, as well as extracting nanocellulose from cassava peels for potential applications in food-packaging films and composite materials.
+<h3>01. ZnO/C-Based Materials</h3>
 
-I am interested in understanding the relationships between material composition, structure, properties, and performance. Alongside my materials science background, I use Python with AI-assisted coding tools to explore programming-based problem-solving and scientific workflows.
+<img src="https://img.shields.io/badge/FOCUS-GREEN%20SYNTHESIS-0F766E?style=flat-square" alt="Green synthesis"/>
 
-I am working toward research internship and scholarship opportunities while continuing to develop my experimental knowledge, programming skills, and academic English proficiency.
+**Project overview**
 
-### Quick Facts
+Synthesis of zinc oxide (ZnO) using cashew apple juice extract, with an interest in photocatalytic applications and porous materials.
 
-- 🎓 **University:** University of Science, VNU-HCM
-- 📚 **Academic Level:** Third-year undergraduate
-- 🧪 **Research Projects:** ZnO/C-based materials and nanocellulose
-- 🔬 **Characterization Methods:** Familiar with UV–Vis, FTIR, and SEM
-- 💻 **Programming:** Python with AI-assisted coding
-- 🌐 **English:** B1 certificate; currently preparing for IELTS
-- 🎯 **Career Goals:** Research internships and scholarship opportunities
-- 📄 **Academic CV:** [View My CV](YOUR_CV_URL)
+**Research directions**
 
----
+- ZnO synthesis using a plant-derived extract.
+- Material properties and characterization.
+- Potential photocatalytic applications.
+- Exploration of porous material systems.
 
-## 🔬 Research Interests
+**Methods & findings**
 
-My current research interests focus on materials development, experimental characterization, and the potential applications of functional and sustainable materials.
+- Synthesis procedure: [Add actual method]
+- Characterization: [Add methods used]
+- Individual contribution: [Describe your role]
+- Results: [Add verified findings]
 
-- **Nanomaterials:** Exploring material synthesis, structure, and properties.
-- **Photocatalytic Materials:** Investigating the potential photocatalytic applications of ZnO-based materials.
-- **Sustainable Materials:** Exploring biomass-derived resources for material development.
-- **Cellulose-Based Materials:** Studying the potential use of nanocellulose in food packaging and composite materials.
-- **Materials Characterization:** Developing an understanding of characterization methods and the interpretation of experimental data.
-- **AI-Assisted Scientific Computing:** Exploring how Python and AI-assisted coding can support scientific problem-solving and research workflows.
+<br>
 
----
+<a href="YOUR_ZNO_C_PROJECT_URL">Project Repository ↗</a>
 
-## 🧪 Research & Project Experience
+</td>
 
-### 01. ZnO/C-Based Materials
+<td width="50%" valign="top">
 
-**Research Areas:** Materials Synthesis | Photocatalysis | Porous Materials
+<h3>02. Nanocellulose from Cassava Peels</h3>
 
-#### Project Overview
+<img src="https://img.shields.io/badge/FOCUS-SUSTAINABLE%20MATERIALS-2563EB?style=flat-square" alt="Sustainable materials"/>
 
-This project involves synthesizing zinc oxide (ZnO) using cashew apple juice extract and exploring its potential applications in photocatalysis and porous materials.
+**Project overview**
 
-#### Research Objectives
+Extraction of nanocellulose from cassava peels for potential use in food-packaging films and composite materials.
 
-- Investigate the synthesis of ZnO using cashew apple juice extract.
-- Explore the relationship between synthesis conditions and material properties.
-- Examine the potential applications of the resulting materials in photocatalytic systems and porous materials.
+**Research directions**
 
-#### Project Details
+- Biomass-derived nanocellulose.
+- Extraction and material processing.
+- Film and composite material development.
+- Potential sustainable packaging applications.
 
-- **Material System:** ZnO/C-based materials
-- **Synthesis Method:** [Describe the actual synthesis procedure.]
-- **Experimental Conditions:** [Add verified experimental parameters, if available.]
-- **Characterization:** [List the methods actually used in this project.]
-- **Individual Contribution:** [Describe your specific responsibilities.]
-- **Results and Discussion:** [Add verified experimental findings.]
-- **Research Output:** [Report, poster, presentation, or publication, if available.]
+**Methods & findings**
 
-#### Project Resources
+- Extraction procedure: [Add actual method]
+- Characterization: [Add methods used]
+- Individual contribution: [Describe your role]
+- Results: [Add verified findings]
 
-- [Project Repository](YOUR_ZNO_C_PROJECT_URL)
-- [Research Report](YOUR_ZNO_C_REPORT_URL)
-- [Research Poster](YOUR_ZNO_C_POSTER_URL)
+<br>
 
----
+<a href="YOUR_CNC_PROJECT_URL">Project Repository ↗</a>
 
-### 02. Nanocellulose Extraction from Cassava Peels
+</td>
+</tr>
+</table>
 
-**Research Areas:** Sustainable Materials | Cellulose-Based Materials | Food Packaging
-
-#### Project Overview
-
-This project focuses on extracting nanocellulose from cassava peels and exploring its potential use in food-packaging films and composite materials.
-
-The project connects materials research with the utilization of biomass-derived resources and the development of potentially more sustainable material systems.
-
-#### Research Objectives
-
-- Investigate the extraction of nanocellulose from cassava peels.
-- Explore the potential use of nanocellulose in film formation.
-- Examine its potential applications in food packaging and composite materials.
-
-#### Project Details
-
-- **Raw Material:** Cassava peels
-- **Target Material:** Nanocellulose; [Confirm the exact material designation, such as CNC, if applicable.]
-- **Extraction Method:** [Describe the actual extraction and treatment procedures.]
-- **Film Preparation:** [Describe the process, if performed.]
-- **Composite Development:** [Describe the process, if performed.]
-- **Characterization:** [List the methods actually used in this project.]
-- **Individual Contribution:** [Describe your specific responsibilities.]
-- **Results and Discussion:** [Add verified experimental findings.]
-- **Research Output:** [Report, poster, presentation, or publication, if available.]
-
-#### Project Resources
-
-- [Project Repository](YOUR_CNC_PROJECT_URL)
-- [Research Report](YOUR_CNC_REPORT_URL)
-- [Research Poster](YOUR_CNC_POSTER_URL)
+> **Research note:** Add experimental images, characterization results, project reports, or posters only when they are available and approved for sharing.
 
 ---
 
-## 🧰 Technical Skills
+## 03 / TECHNICAL TOOLKIT
 
-### Materials Science & Characterization
+<div align="center">
 
-| Area | Knowledge / Experience |
-|---|---|
-| Materials Science | Academic background in materials science |
-| Material Systems | ZnO/C-based materials and nanocellulose-based materials |
-| UV–Vis Spectroscopy | Familiar with the measurement method |
-| FTIR Spectroscopy | Familiar with the measurement method |
-| Scanning Electron Microscopy (SEM) | Familiar with the characterization method |
-| Material Synthesis | Project experience involving ZnO synthesis |
-| Biomass-Derived Materials | Project experience involving nanocellulose from cassava peels |
+### Materials Science
 
-*Add hands-on instrument operation, sample preparation, data processing, and interpretation only where supported by your actual experience.*
+<img src="https://img.shields.io/badge/UV--Vis-Spectroscopy-2563EB?style=flat-square" alt="UV-Vis"/>
+<img src="https://img.shields.io/badge/FTIR-Spectroscopy-0F766E?style=flat-square" alt="FTIR"/>
+<img src="https://img.shields.io/badge/SEM-Microscopy-475569?style=flat-square" alt="SEM"/>
+<img src="https://img.shields.io/badge/Materials-Nanomaterials-7C3AED?style=flat-square" alt="Nanomaterials"/>
+
+<br>
 
 ### Programming & AI-Assisted Development
 
-| Tool / Area | Knowledge / Experience |
-|---|---|
-| Python | Coding with AI assistance |
-| AI-Assisted Coding | Using AI tools to support code development and problem-solving |
-| Scientific Computing | Exploring Python-based research workflows |
-| Data Analysis | [Add the libraries, software, and methods you have actually used] |
-| Git & GitHub | [Add your actual version-control experience] |
+<img src="https://img.shields.io/badge/Python-Coding%20with%20AI%20Assistance-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/AI-Assisted%20Coding-111827?style=flat-square" alt="AI-assisted coding"/>
+<img src="https://img.shields.io/badge/Scientific-Problem%20Solving-0F766E?style=flat-square" alt="Scientific problem solving"/>
 
-I use AI-assisted coding to explore solutions, develop code, and support project-based learning. I am continuing to strengthen my programming fundamentals, code verification, debugging, and ability to understand and maintain the code I use.
+</div>
 
----
+**Current development priorities**
 
-## 🎓 Education
+- Strengthening knowledge of material characterization and experimental interpretation.
+- Improving Python fundamentals, debugging, and code verification.
+- Exploring AI-assisted coding for research-oriented tasks.
+- Developing scientific writing and academic communication skills.
 
-### University of Science, Vietnam National University Ho Chi Minh City (VNU-HCM)
-
-**Undergraduate Studies in Materials Science**
-
-- **Academic Level:** Third year
-- **Study Period:** [Start Year] – Present
-- **Expected Graduation:** [Expected Graduation Year]
-
-#### Relevant Coursework
-
-- [Course Name]
-- [Course Name]
-- [Course Name]
-- [Course Name]
-
-*Replace these placeholders with the official names of courses you have completed or are currently taking.*
+*The characterization badges indicate familiarity with the methods, not necessarily independent operation of the instruments.*
 
 ---
 
-## 🌐 Languages & English Proficiency
+## 04 / EDUCATION & LANGUAGES
 
-### English
+<table>
+<tr>
+<td width="58%" valign="top">
 
-- **Current Qualification:** B1 English certificate
-- **Current Development:** Preparing for the IELTS examination
-- **Learning Goals:** Strengthening academic reading, writing, listening, and speaking skills for research internships, international academic collaboration, and scholarship applications.
+### 🎓 Education
 
-#### Certificate Details
+**University of Science, VNU-HCM**
 
-- **Certificate Name:** [Official name of the B1 certificate]
-- **Issuing Institution:** [Institution name]
-- **Date of Issue:** [Month / Year, if applicable]
+Materials Science Undergraduate
 
-#### IELTS Preparation
+- Academic level: Third year
+- Study period: [Start year] – Present
+- Expected graduation: [Year]
 
-- **Status:** Currently preparing for IELTS
-- **Target Band Score:** [Add your target, if established]
-- **Planned Test Date:** [Add the date, if established]
+</td>
+<td width="42%" valign="top">
 
-*The target score and test date are optional. Do not present IELTS as an obtained qualification before receiving the result.*
+### 🌐 Languages
+
+**English**
+
+- B1 English certificate
+- Currently preparing for IELTS
+
+**Certificate details**
+
+- Official name: [Certificate name]
+- Issuing institution: [Institution]
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📂 Academic Portfolio
+## 05 / ACADEMIC PORTFOLIO
 
-A collection of research projects, academic documents, and supporting materials.
+A curated collection of research projects and academic documents.
 
 | Resource | Link |
-|---|---|
-| Academic CV | [View CV](YOUR_CV_URL) |
-| ZnO/C Project | [View Project](YOUR_ZNO_C_PROJECT_URL) |
-| Nanocellulose Project | [View Project](YOUR_CNC_PROJECT_URL) |
-| Research Reports | [View Reports](YOUR_REPORTS_URL) |
-| Research Posters | [View Posters](YOUR_POSTERS_URL) |
-| Research Presentations | [View Presentations](YOUR_PRESENTATIONS_URL) |
-| Google Scholar | [Academic Profile](YOUR_GOOGLE_SCHOLAR_URL) |
-| ORCID | [Researcher Profile](YOUR_ORCID_URL) |
+|:--|:--|
+| 📄 Academic CV | [View CV](YOUR_CV_URL) |
+| 🧪 ZnO/C Project | [Project Repository](YOUR_ZNO_C_PROJECT_URL) |
+| 🌱 Nanocellulose Project | [Project Repository](YOUR_CNC_PROJECT_URL) |
+| 📑 Research Reports | [View Reports](YOUR_REPORTS_URL) |
+| 🖼️ Research Posters | [View Posters](YOUR_POSTERS_URL) |
+| 🎓 Google Scholar | [Academic Profile](YOUR_GOOGLE_SCHOLAR_URL) |
+| 🆔 ORCID | [Researcher Profile](YOUR_ORCID_URL) |
 
-*Remove unavailable links and share only materials approved for public release.*
-
----
-
-## 🏆 Academic Achievements & Activities
-
-- **Publications:** [Add verified publications, if any.]
-- **Research Presentations:** [Add completed presentations, if any.]
-- **Awards & Scholarships:** [Add verified achievements, if any.]
-- **Certifications:** [Add completed and relevant certifications, if any.]
-- **Research Workshops:** [Add relevant workshops, if any.]
-- **Academic Activities:** [Add relevant academic experience, if any.]
-
-*Keep this section limited to completed and verifiable achievements.*
+*Remove links for resources that are not yet available.*
 
 ---
 
-## 🎯 Research & Career Goals
+## 06 / RESEARCH GOALS
 
-My goal is to build a strong foundation in Materials Science through research-oriented learning, practical project experience, and collaboration with academic teams.
+My goal is to build a strong foundation in Materials Science through research-oriented learning, experimental work, and interdisciplinary collaboration.
 
 I am particularly interested in:
 
-- Research internships in Materials Science and related disciplines.
-- Opportunities to contribute to university laboratories and collaborative research projects.
-- Scholarship opportunities and future graduate study.
-- Improving scientific communication and academic English proficiency.
-- Developing reliable Python-based workflows for scientific problem-solving.
-- Exploring connections between materials research, computational tools, and AI-assisted development.
+- Research internships in materials science and related fields.
+- Undergraduate research opportunities and laboratory collaboration.
+- Scholarships and future graduate study.
+- Sustainable materials and functional nanomaterials.
+- Python-based scientific workflows and AI-assisted problem-solving.
 
-I value scientific integrity, evidence-based interpretation, careful experimentation, and continuous learning.
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    height="165"
-    alt="GitHub profile statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="Most-used programming languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"
-    alt="GitHub contribution streak"
-  />
-</p>
+I value scientific integrity, evidence-based interpretation, continuous learning, and responsible collaboration.
 
 ---
 
-## 🤝 Let's Connect
+## 07 / GITHUB ANALYTICS
 
-I welcome opportunities to connect with students, researchers, and professionals working in Materials Science, nanomaterials, sustainable materials, and interdisciplinary research.
+<div align="center">
 
-- 📧 **Email:** giaun3456@gmail.com
-- 💼 **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-- 💻 **GitHub:** [My GitHub Profile](https://github.com/giaun3456-png)
-- 🎓 **Google Scholar:** [My Academic Profile](YOUR_GOOGLE_SCHOLAR_URL)
-- 🆔 **ORCID:** [My Researcher Profile](YOUR_ORCID_URL)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=giaun3456-png&show_icons=true&hide_border=true&bg_color=0B1220&title_color=5EEAD4&text_color=CBD5E1&icon_color=60A5FA&rank_icon=github" alt="GitHub statistics"/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giaun3456-png&layout=compact&hide_border=true&bg_color=0B1220&title_color=5EEAD4&text_color=CBD5E1" alt="Most-used programming languages"/>
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Curiosity drives research. Evidence guides discovery.</i>
-</p>
+<div align="center">
+
+### LET'S CONNECT
+
+**Interested in research, materials innovation, and interdisciplinary learning.**
+
+<a href="mailto:giaun3456@gmail.com">Email</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/giaun3456-png">GitHub</a>
+&nbsp; · &nbsp;
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a>
+
+<br>
+
+<sub><i>Curiosity drives research. Evidence guides discovery.</i></sub>
+
+</div>
 ```
